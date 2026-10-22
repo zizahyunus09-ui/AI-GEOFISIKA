@@ -1,0 +1,239 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Dashboard pembelajaran cuaca dan kebencanaan Kota Makassar">
+  <title>Makassar Weather Dashboard</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Pustaka grafik -->
+  <script defer src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+
+  <!-- Pustaka pembaca CSV -->
+  <script defer src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+  <!-- Pustaka peta -->
+  <link rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Kode utama website -->
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-icon">☁</div>
+        <div>
+          <p class="eyebrow">GEOFISIKA • CUACA & KEBENCANAAN</p>
+          <h1>Makassar Weather</h1>
+        </div>
+      </div>
+      <div class="location-pill">📍 Kota Makassar, Sulawesi Selatan</div>
+    </header>
+
+    <section class="hero">
+      <div>
+        <p class="eyebrow">WEATHER INSIGHT DASHBOARD</p>
+        <h2>Kenali cuaca,<br>siapkan aktivitasmu.</h2>
+        <p class="hero-description">
+          Jelajahi data suhu, kelembapan, angin, dan curah hujan
+          berdasarkan waktu prakiraan dan kecamatan.
+        </p>
+        <span class="simulation-label">DATA SIMULASI • BUKAN PRAKIRAAN RESMI BMKG</span>
+      </div>
+      <div class="hero-weather">
+        <span class="weather-icon">🌤️</span>
+        <div>
+          <div class="hero-temperature" id="heroTemp">-- °C</div>
+          <div id="heroCondition">Memuat data...</div>
+          <small>Rata-rata data terpilih</small>
+        </div>
+      </div>
+    </section>
+
+    <section class="filter-panel">
+      <div class="filter-field">
+        <label for="districtFilter">Kecamatan</label>
+        <select id="districtFilter">
+          <option value="all">Semua kecamatan</option>
+        </select>
+      </div>
+
+      <div class="filter-field">
+        <label for="dateFilter">Tanggal</label>
+        <select id="dateFilter">
+          <option value="all">Semua tanggal</option>
+        </select>
+      </div>
+
+      <div class="filter-field">
+        <label for="periodFilter">Periode waktu</label>
+        <select id="periodFilter">
+          <option value="all">Sepanjang hari</option>
+          <option value="dini">Dini hari (00–05)</option>
+          <option value="pagi">Pagi (06–11)</option>
+          <option value="siang">Siang (12–17)</option>
+          <option value="malam">Malam (18–23)</option>
+        </select>
+      </div>
+
+      <div class="filter-field">
+        <label for="variableFilter">Variabel grafik</label>
+        <select id="variableFilter">
+          <option value="Suhu_C">Suhu (°C)</option>
+          <option value="Kelembapan_pct">Kelembapan (%)</option>
+          <option value="Kecepatan_Angin_kmh">Angin (km/jam)</option>
+          <option value="Curah_Hujan_mm">Curah hujan (mm)</option>
+        </select>
+      </div>
+
+      <button id="resetButton" class="reset-button">↻ Reset</button>
+    </section>
+
+    <div id="statusMessage" class="status-message">
+      Sedang membaca data CSV...
+    </div>
+
+    <section class="kpi-grid">
+      <article class="kpi-card pink">
+        <div class="kpi-label">🌡️ Suhu rata-rata</div>
+        <div class="kpi-value" id="avgTemp">--</div>
+        <div class="kpi-note" id="tempRange">Min — / Maks —</div>
+      </article>
+
+      <article class="kpi-card lavender">
+        <div class="kpi-label">💧 Kelembapan rata-rata</div>
+        <div class="kpi-value" id="avgHumidity">--</div>
+        <div class="kpi-note">Kelembapan udara</div>
+      </article>
+
+      <article class="kpi-card mint">
+        <div class="kpi-label">🍃 Angin rata-rata</div>
+        <div class="kpi-value" id="avgWind">--</div>
+        <div class="kpi-note" id="windMax">Maksimum —</div>
+      </article>
+
+      <article class="kpi-card peach">
+        <div class="kpi-label">🌧️ Hujan rata-rata</div>
+        <div class="kpi-value" id="avgRain">--</div>
+        <div class="kpi-note" id="rainTotal">Total —</div>
+      </article>
+    </section>
+
+    <section class="dashboard-grid">
+      <article class="panel">
+        <div class="panel-heading">
+          <div>
+            <h3 id="trendTitle">Tren suhu berdasarkan waktu</h3>
+            <p>Rata-rata pada setiap waktu prakiraan</p>
+          </div>
+          <span class="chart-tag">TREN</span>
+        </div>
+        <div class="chart-container">
+          <canvas id="trendChart"></canvas>
+        </div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-heading">
+          <div>
+            <h3>Komposisi kondisi cuaca</h3>
+            <p>Jumlah data untuk setiap kondisi</p>
+          </div>
+          <span class="chart-tag">KONDISI</span>
+        </div>
+        <div class="chart-container">
+          <canvas id="conditionChart"></canvas>
+        </div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-heading">
+          <div>
+            <h3>Angin dan curah hujan</h3>
+            <p>Perbandingan rata-rata berdasarkan waktu</p>
+          </div>
+          <span class="chart-tag">KOMPARASI</span>
+        </div>
+        <div class="chart-container">
+          <canvas id="windRainChart"></canvas>
+        </div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-heading">
+          <div>
+            <h3>Peta kecamatan</h3>
+            <p>Titik lokasi ilustratif dari data simulasi</p>
+          </div>
+          <span class="chart-tag">PETA</span>
+        </div>
+        <div id="weatherMap"></div>
+        <p class="map-note">
+          Klik penanda peta untuk melihat ringkasan data simulasi.
+        </p>
+      </article>
+    </section>
+
+    <section class="panel table-panel">
+      <div class="panel-heading">
+        <div>
+          <h3>Ringkasan per kecamatan</h3>
+          <p>Statistik menyesuaikan filter yang dipilih</p>
+        </div>
+      </div>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>Kecamatan</th>
+              <th>Suhu</th>
+              <th>Kelembapan</th>
+              <th>Angin</th>
+              <th>Curah hujan</th>
+            </tr>
+          </thead>
+          <tbody id="summaryTable"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel table-panel">
+      <div class="panel-heading">
+        <div>
+          <h3>Data cuaca terpilih</h3>
+          <p>Rincian baris data berdasarkan filter</p>
+        </div>
+        <span class="chart-tag" id="rowCount">0 BARIS</span>
+      </div>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>Waktu</th>
+              <th>Kecamatan</th>
+              <th>Kondisi</th>
+              <th>Suhu</th>
+              <th>Kelembapan</th>
+              <th>Angin</th>
+              <th>Hujan</th>
+            </tr>
+          </thead>
+          <tbody id="detailTable"></tbody>
+        </table>
+      </div>
+      <p class="table-note" id="tableNote"></p>
+    </section>
+
+    <footer>
+      <p><strong>Makassar Weather Dashboard</strong> • Proyek pembelajaran Geofisika</p>
+      <p>Data simulasi untuk demonstrasi, bukan dasar keputusan keselamatan.</p>
+    </footer>
+  </div>
+</body>
+</html>

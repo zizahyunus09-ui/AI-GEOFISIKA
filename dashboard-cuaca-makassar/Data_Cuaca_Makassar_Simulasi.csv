@@ -1,0 +1,361 @@
+﻿ID,Waktu_Prakiraan,Kecamatan,Latitude_demo,Longitude_demo,Suhu_C,Kelembapan_pct,Kondisi_Cuaca,Kecepatan_Angin_kmh,Arah_Angin,Tutupan_Awan_pct,Jarak_Pandang_km,Curah_Hujan_mm,Status_Data,Catatan_Sumber
+SIM-0001,2026-10-22 00:00:00,Mariso,-5.157,119.409,24.1,81,Cerah Berawan,5.6,Timur Laut,13,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0002,2026-10-22 00:00:00,Mamajang,-5.16,119.426,24.0,81,Cerah,5.7,Barat,3,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0003,2026-10-22 00:00:00,Makassar,-5.145,119.419,23.1,90,Berawan,2.1,Barat Daya,30,9.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0004,2026-10-22 00:00:00,Ujung Pandang,-5.137,119.407,23.3,84,Berawan,3.6,Barat Daya,58,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0005,2026-10-22 00:00:00,Wajo,-5.132,119.414,24.0,94,Berawan,10.6,Selatan,58,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0006,2026-10-22 00:00:00,Bontoala,-5.13,119.433,24.6,90,Hujan Ringan,13.3,Selatan,15,7.6,2.1,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0007,2026-10-22 00:00:00,Tallo,-5.111,119.435,25.0,94,Hujan Ringan,9.3,Barat Daya,56,4.1,1.4,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0008,2026-10-22 00:00:00,Panakkukang,-5.155,119.448,23.1,85,Hujan Ringan,11.7,Tenggara,31,6.7,2.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0009,2026-10-22 00:00:00,Manggala,-5.18,119.493,23.0,87,Hujan Ringan,10.9,Utara,97,5.3,2.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0010,2026-10-22 00:00:00,Biringkanaya,-5.09,119.52,23.1,81,Cerah Berawan,6.3,Barat Daya,27,9.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0011,2026-10-22 00:00:00,Tamalanrea,-5.113,119.49,23.1,89,Hujan Ringan,4.3,Selatan,27,4.7,2.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0012,2026-10-22 00:00:00,Rappocini,-5.176,119.431,24.4,87,Berawan,7.8,Timur Laut,27,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0013,2026-10-22 00:00:00,Tamalate,-5.205,119.405,24.4,94,Cerah,4.6,Barat,54,8.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0014,2026-10-22 00:00:00,Ujung Tanah,-5.113,119.414,23.5,97,Berawan,17.5,Timur Laut,11,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0015,2026-10-22 00:00:00,Kepulauan Sangkarrang,-5.025,119.32,23.8,89,Cerah Berawan,12.3,Timur,14,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0016,2026-10-22 03:00:00,Mariso,-5.157,119.409,24.6,93,Hujan Ringan,10.0,Timur Laut,32,6.6,1.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0017,2026-10-22 03:00:00,Mamajang,-5.16,119.426,25.6,83,Berawan,11.7,Timur,29,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0018,2026-10-22 03:00:00,Makassar,-5.145,119.419,24.8,90,Berawan,2.0,Timur Laut,51,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0019,2026-10-22 03:00:00,Ujung Pandang,-5.137,119.407,25.8,92,Berawan,6.9,Timur Laut,17,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0020,2026-10-22 03:00:00,Wajo,-5.132,119.414,23.7,86,Cerah,14.2,Barat Laut,16,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0021,2026-10-22 03:00:00,Bontoala,-5.13,119.433,25.8,80,Berawan,11.7,Tenggara,37,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0022,2026-10-22 03:00:00,Tallo,-5.111,119.435,25.2,84,Berawan,8.0,Tenggara,76,8.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0023,2026-10-22 03:00:00,Panakkukang,-5.155,119.448,24.1,83,Berawan,5.7,Utara,38,7.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0024,2026-10-22 03:00:00,Manggala,-5.18,119.493,24.1,92,Hujan Ringan,5.8,Timur,95,6.4,0.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0025,2026-10-22 03:00:00,Biringkanaya,-5.09,119.52,25.3,92,Berawan,5.9,Tenggara,70,9.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0026,2026-10-22 03:00:00,Tamalanrea,-5.113,119.49,23.8,88,Cerah Berawan,8.6,Timur Laut,6,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0027,2026-10-22 03:00:00,Rappocini,-5.176,119.431,23.7,89,Berawan,3.7,Barat Laut,34,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0028,2026-10-22 03:00:00,Tamalate,-5.205,119.405,23.9,81,Cerah Berawan,16.0,Timur Laut,9,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0029,2026-10-22 03:00:00,Ujung Tanah,-5.113,119.414,23.7,94,Hujan Ringan,16.8,Barat Laut,40,4.2,3.4,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0030,2026-10-22 03:00:00,Kepulauan Sangkarrang,-5.025,119.32,24.3,92,Hujan Ringan,2.0,Barat Laut,59,4.9,0.7,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0031,2026-10-22 06:00:00,Mariso,-5.157,119.409,26.5,82,Berawan,14.5,Timur,94,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0032,2026-10-22 06:00:00,Mamajang,-5.16,119.426,26.3,74,Cerah,13.8,Utara,7,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0033,2026-10-22 06:00:00,Makassar,-5.145,119.419,25.9,79,Hujan Ringan,2.9,Timur,75,3.6,1.9,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0034,2026-10-22 06:00:00,Ujung Pandang,-5.137,119.407,26.0,72,Hujan Ringan,17.1,Utara,82,4.7,1.5,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0035,2026-10-22 06:00:00,Wajo,-5.132,119.414,27.3,78,Berawan,10.4,Barat Daya,43,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0036,2026-10-22 06:00:00,Bontoala,-5.13,119.433,26.4,77,Berawan,6.8,Timur Laut,50,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0037,2026-10-22 06:00:00,Tallo,-5.111,119.435,25.8,81,Berawan,3.6,Selatan,78,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0038,2026-10-22 06:00:00,Panakkukang,-5.155,119.448,26.1,77,Cerah,5.9,Selatan,36,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0039,2026-10-22 06:00:00,Manggala,-5.18,119.493,27.3,87,Berawan,2.1,Timur Laut,80,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0040,2026-10-22 06:00:00,Biringkanaya,-5.09,119.52,28.1,73,Cerah,3.7,Tenggara,19,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0041,2026-10-22 06:00:00,Tamalanrea,-5.113,119.49,27.5,74,Berawan,6.2,Utara,72,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0042,2026-10-22 06:00:00,Rappocini,-5.176,119.431,26.0,78,Cerah Berawan,2.1,Selatan,16,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0043,2026-10-22 06:00:00,Tamalate,-5.205,119.405,26.2,78,Berawan,11.0,Timur,24,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0044,2026-10-22 06:00:00,Ujung Tanah,-5.113,119.414,27.1,84,Berawan,4.4,Barat Daya,26,7.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0045,2026-10-22 06:00:00,Kepulauan Sangkarrang,-5.025,119.32,27.6,84,Hujan Ringan,5.4,Barat Daya,41,7.7,3.2,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0046,2026-10-22 09:00:00,Mariso,-5.157,119.409,29.9,78,Cerah Berawan,11.9,Tenggara,19,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0047,2026-10-22 09:00:00,Mamajang,-5.16,119.426,30.1,80,Berawan,16.1,Barat Daya,13,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0048,2026-10-22 09:00:00,Makassar,-5.145,119.419,29.9,71,Berawan,13.8,Timur Laut,41,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0049,2026-10-22 09:00:00,Ujung Pandang,-5.137,119.407,29.0,65,Cerah Berawan,5.2,Tenggara,58,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0050,2026-10-22 09:00:00,Wajo,-5.132,119.414,28.6,75,Cerah Berawan,6.5,Selatan,8,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0051,2026-10-22 09:00:00,Bontoala,-5.13,119.433,28.9,72,Berawan,15.5,Timur Laut,52,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0052,2026-10-22 09:00:00,Tallo,-5.111,119.435,30.2,68,Berawan,17.7,Barat,14,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0053,2026-10-22 09:00:00,Panakkukang,-5.155,119.448,28.9,77,Cerah Berawan,17.7,Tenggara,14,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0054,2026-10-22 09:00:00,Manggala,-5.18,119.493,28.7,76,Cerah,16.8,Timur Laut,25,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0055,2026-10-22 09:00:00,Biringkanaya,-5.09,119.52,30.3,79,Berawan,12.6,Selatan,25,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0056,2026-10-22 09:00:00,Tamalanrea,-5.113,119.49,29.3,75,Cerah Berawan,13.2,Barat,16,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0057,2026-10-22 09:00:00,Rappocini,-5.176,119.431,29.7,79,Berawan,6.8,Selatan,80,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0058,2026-10-22 09:00:00,Tamalate,-5.205,119.405,28.8,71,Berawan,12.5,Tenggara,69,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0059,2026-10-22 09:00:00,Ujung Tanah,-5.113,119.414,29.3,77,Hujan Ringan,12.5,Barat Daya,46,6.6,2.6,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0060,2026-10-22 09:00:00,Kepulauan Sangkarrang,-5.025,119.32,27.9,79,Cerah Berawan,7.0,Utara,25,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0061,2026-10-22 12:00:00,Mariso,-5.157,119.409,29.6,69,Hujan Ringan,8.6,Barat,90,7.0,0.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0062,2026-10-22 12:00:00,Mamajang,-5.16,119.426,30.2,65,Berawan,2.1,Tenggara,23,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0063,2026-10-22 12:00:00,Makassar,-5.145,119.419,29.4,77,Berawan,2.8,Timur Laut,41,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0064,2026-10-22 12:00:00,Ujung Pandang,-5.137,119.407,30.1,74,Berawan,17.8,Barat Laut,86,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0065,2026-10-22 12:00:00,Wajo,-5.132,119.414,30.5,73,Berawan,15.3,Timur,80,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0066,2026-10-22 12:00:00,Bontoala,-5.13,119.433,30.8,69,Cerah Berawan,6.0,Barat Laut,35,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0067,2026-10-22 12:00:00,Tallo,-5.111,119.435,30.5,66,Cerah,6.6,Timur Laut,34,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0068,2026-10-22 12:00:00,Panakkukang,-5.155,119.448,29.3,65,Berawan,13.3,Barat Daya,18,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0069,2026-10-22 12:00:00,Manggala,-5.18,119.493,30.3,68,Cerah Berawan,8.7,Barat,2,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0070,2026-10-22 12:00:00,Biringkanaya,-5.09,119.52,30.1,76,Cerah Berawan,8.2,Tenggara,53,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0071,2026-10-22 12:00:00,Tamalanrea,-5.113,119.49,30.2,66,Cerah Berawan,8.2,Barat Laut,51,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0072,2026-10-22 12:00:00,Rappocini,-5.176,119.431,31.2,77,Berawan,16.5,Utara,85,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0073,2026-10-22 12:00:00,Tamalate,-5.205,119.405,29.2,68,Hujan Ringan,6.2,Barat Daya,51,4.5,0.7,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0074,2026-10-22 12:00:00,Ujung Tanah,-5.113,119.414,29.8,75,Cerah Berawan,17.2,Timur Laut,53,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0075,2026-10-22 12:00:00,Kepulauan Sangkarrang,-5.025,119.32,29.7,73,Cerah,17.2,Utara,28,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0076,2026-10-22 15:00:00,Mariso,-5.157,119.409,29.9,79,Cerah Berawan,2.3,Barat Laut,19,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0077,2026-10-22 15:00:00,Mamajang,-5.16,119.426,29.7,73,Cerah Berawan,13.2,Timur Laut,47,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0078,2026-10-22 15:00:00,Makassar,-5.145,119.419,29.9,67,Cerah Berawan,11.3,Barat,39,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0079,2026-10-22 15:00:00,Ujung Pandang,-5.137,119.407,29.0,76,Cerah,13.0,Selatan,31,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0080,2026-10-22 15:00:00,Wajo,-5.132,119.414,30.1,74,Cerah,17.7,Barat,5,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0081,2026-10-22 15:00:00,Bontoala,-5.13,119.433,29.7,65,Berawan,2.2,Timur Laut,63,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0082,2026-10-22 15:00:00,Tallo,-5.111,119.435,29.1,70,Hujan Ringan,4.4,Selatan,32,8.1,1.7,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0083,2026-10-22 15:00:00,Panakkukang,-5.155,119.448,29.5,79,Berawan,9.4,Tenggara,85,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0084,2026-10-22 15:00:00,Manggala,-5.18,119.493,30.1,66,Hujan Ringan,9.4,Barat Daya,88,7.7,0.9,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0085,2026-10-22 15:00:00,Biringkanaya,-5.09,119.52,28.1,78,Cerah Berawan,5.4,Selatan,33,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0086,2026-10-22 15:00:00,Tamalanrea,-5.113,119.49,29.4,72,Cerah Berawan,5.9,Tenggara,52,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0087,2026-10-22 15:00:00,Rappocini,-5.176,119.431,29.7,75,Cerah Berawan,14.7,Barat,11,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0088,2026-10-22 15:00:00,Tamalate,-5.205,119.405,29.7,69,Berawan,9.6,Barat Daya,77,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0089,2026-10-22 15:00:00,Ujung Tanah,-5.113,119.414,28.9,71,Cerah Berawan,5.7,Timur,24,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0090,2026-10-22 15:00:00,Kepulauan Sangkarrang,-5.025,119.32,28.1,76,Cerah Berawan,11.4,Tenggara,36,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0091,2026-10-22 18:00:00,Mariso,-5.157,119.409,26.5,77,Cerah Berawan,13.3,Utara,16,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0092,2026-10-22 18:00:00,Mamajang,-5.16,119.426,27.1,82,Cerah,15.9,Utara,62,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0093,2026-10-22 18:00:00,Makassar,-5.145,119.419,27.2,79,Cerah Berawan,4.9,Barat Laut,6,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0094,2026-10-22 18:00:00,Ujung Pandang,-5.137,119.407,26.1,72,Cerah Berawan,11.2,Selatan,6,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0095,2026-10-22 18:00:00,Wajo,-5.132,119.414,26.0,75,Berawan,8.7,Tenggara,86,9.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0096,2026-10-22 18:00:00,Bontoala,-5.13,119.433,27.7,77,Hujan Ringan,11.4,Utara,64,5.1,1.1,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0097,2026-10-22 18:00:00,Tallo,-5.111,119.435,27.3,83,Hujan Ringan,5.4,Tenggara,94,3.6,0.8,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0098,2026-10-22 18:00:00,Panakkukang,-5.155,119.448,26.2,72,Cerah,9.2,Tenggara,60,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0099,2026-10-22 18:00:00,Manggala,-5.18,119.493,26.5,76,Hujan Ringan,5.7,Tenggara,43,8.5,0.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0100,2026-10-22 18:00:00,Biringkanaya,-5.09,119.52,26.8,80,Berawan,16.5,Timur,28,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0101,2026-10-22 18:00:00,Tamalanrea,-5.113,119.49,27.7,81,Berawan,16.7,Selatan,66,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0102,2026-10-22 18:00:00,Rappocini,-5.176,119.431,27.5,86,Berawan,9.9,Barat,20,8.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0103,2026-10-22 18:00:00,Tamalate,-5.205,119.405,27.6,81,Cerah,5.7,Selatan,2,10.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0104,2026-10-22 18:00:00,Ujung Tanah,-5.113,119.414,27.2,83,Cerah Berawan,10.3,Timur,56,9.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0105,2026-10-22 18:00:00,Kepulauan Sangkarrang,-5.025,119.32,27.8,78,Berawan,17.5,Barat Daya,70,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0106,2026-10-22 21:00:00,Mariso,-5.157,119.409,24.3,79,Cerah,8.6,Barat,63,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0107,2026-10-22 21:00:00,Mamajang,-5.16,119.426,25.5,87,Cerah Berawan,7.0,Barat,41,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0108,2026-10-22 21:00:00,Makassar,-5.145,119.419,25.6,91,Cerah,15.9,Tenggara,59,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0109,2026-10-22 21:00:00,Ujung Pandang,-5.137,119.407,24.8,88,Cerah Berawan,9.1,Timur,6,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0110,2026-10-22 21:00:00,Wajo,-5.132,119.414,25.8,85,Berawan,3.9,Tenggara,90,8.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0111,2026-10-22 21:00:00,Bontoala,-5.13,119.433,25.2,83,Cerah,8.5,Timur Laut,28,10.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0112,2026-10-22 21:00:00,Tallo,-5.111,119.435,24.6,80,Berawan,10.0,Selatan,47,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0113,2026-10-22 21:00:00,Panakkukang,-5.155,119.448,24.5,86,Cerah Berawan,9.3,Timur,18,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0114,2026-10-22 21:00:00,Manggala,-5.18,119.493,25.6,82,Berawan,8.6,Utara,74,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0115,2026-10-22 21:00:00,Biringkanaya,-5.09,119.52,24.2,83,Berawan,18.0,Barat Laut,72,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0116,2026-10-22 21:00:00,Tamalanrea,-5.113,119.49,24.8,83,Berawan,10.7,Tenggara,68,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0117,2026-10-22 21:00:00,Rappocini,-5.176,119.431,25.9,82,Cerah Berawan,15.7,Barat Laut,52,7.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0118,2026-10-22 21:00:00,Tamalate,-5.205,119.405,25.2,91,Cerah Berawan,12.6,Utara,19,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0119,2026-10-22 21:00:00,Ujung Tanah,-5.113,119.414,23.8,93,Cerah Berawan,3.6,Barat Laut,56,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0120,2026-10-22 21:00:00,Kepulauan Sangkarrang,-5.025,119.32,23.2,80,Hujan Ringan,3.2,Barat,43,5.4,3.4,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0121,2026-10-23 00:00:00,Mariso,-5.157,119.409,24.2,94,Hujan Ringan,8.1,Barat Laut,50,7.4,3.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0122,2026-10-23 00:00:00,Mamajang,-5.16,119.426,24.7,81,Cerah,12.1,Timur Laut,36,10.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0123,2026-10-23 00:00:00,Makassar,-5.145,119.419,23.6,82,Berawan,16.0,Selatan,66,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0124,2026-10-23 00:00:00,Ujung Pandang,-5.137,119.407,24.8,81,Berawan,6.7,Tenggara,57,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0125,2026-10-23 00:00:00,Wajo,-5.132,119.414,23.9,90,Berawan,4.7,Barat,20,8.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0126,2026-10-23 00:00:00,Bontoala,-5.13,119.433,24.1,84,Hujan Ringan,9.4,Utara,42,6.2,0.6,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0127,2026-10-23 00:00:00,Tallo,-5.111,119.435,24.8,88,Cerah Berawan,10.7,Barat Daya,9,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0128,2026-10-23 00:00:00,Panakkukang,-5.155,119.448,25.0,85,Hujan Ringan,9.3,Barat,48,4.4,2.4,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0129,2026-10-23 00:00:00,Manggala,-5.18,119.493,24.6,82,Cerah Berawan,7.7,Selatan,37,10.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0130,2026-10-23 00:00:00,Biringkanaya,-5.09,119.52,22.7,94,Cerah Berawan,2.1,Barat Laut,6,9.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0131,2026-10-23 00:00:00,Tamalanrea,-5.113,119.49,24.6,95,Berawan,5.7,Tenggara,55,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0132,2026-10-23 00:00:00,Rappocini,-5.176,119.431,24.1,91,Berawan,12.5,Utara,27,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0133,2026-10-23 00:00:00,Tamalate,-5.205,119.405,23.3,88,Berawan,13.7,Barat Daya,21,9.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0134,2026-10-23 00:00:00,Ujung Tanah,-5.113,119.414,24.4,83,Cerah,10.6,Selatan,46,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0135,2026-10-23 00:00:00,Kepulauan Sangkarrang,-5.025,119.32,24.2,85,Berawan,9.7,Barat Daya,47,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0136,2026-10-23 03:00:00,Mariso,-5.157,119.409,25.5,85,Cerah,14.1,Barat,28,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0137,2026-10-23 03:00:00,Mamajang,-5.16,119.426,25.9,91,Cerah Berawan,14.7,Timur Laut,1,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0138,2026-10-23 03:00:00,Makassar,-5.145,119.419,24.6,89,Berawan,11.4,Timur Laut,91,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0139,2026-10-23 03:00:00,Ujung Pandang,-5.137,119.407,25.2,85,Berawan,17.1,Tenggara,51,9.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0140,2026-10-23 03:00:00,Wajo,-5.132,119.414,25.1,88,Cerah Berawan,13.2,Utara,52,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0141,2026-10-23 03:00:00,Bontoala,-5.13,119.433,25.8,83,Cerah Berawan,3.6,Barat Daya,17,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0142,2026-10-23 03:00:00,Tallo,-5.111,119.435,25.1,90,Hujan Ringan,13.9,Timur Laut,29,9.2,1.5,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0143,2026-10-23 03:00:00,Panakkukang,-5.155,119.448,25.5,88,Hujan Ringan,13.0,Tenggara,37,6.1,1.1,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0144,2026-10-23 03:00:00,Manggala,-5.18,119.493,25.6,79,Berawan,10.7,Barat,92,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0145,2026-10-23 03:00:00,Biringkanaya,-5.09,119.52,24.2,93,Hujan Ringan,3.5,Utara,37,7.5,2.9,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0146,2026-10-23 03:00:00,Tamalanrea,-5.113,119.49,23.7,83,Hujan Ringan,5.3,Tenggara,80,4.5,2.8,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0147,2026-10-23 03:00:00,Rappocini,-5.176,119.431,25.5,82,Berawan,14.6,Timur,86,7.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0148,2026-10-23 03:00:00,Tamalate,-5.205,119.405,25.9,86,Berawan,3.8,Barat Daya,13,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0149,2026-10-23 03:00:00,Ujung Tanah,-5.113,119.414,25.4,82,Cerah Berawan,4.8,Barat,6,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0150,2026-10-23 03:00:00,Kepulauan Sangkarrang,-5.025,119.32,24.4,90,Cerah Berawan,14.4,Barat Laut,65,8.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0151,2026-10-23 06:00:00,Mariso,-5.157,119.409,27.0,86,Cerah,14.5,Utara,38,8.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0152,2026-10-23 06:00:00,Mamajang,-5.16,119.426,25.9,79,Cerah Berawan,13.0,Barat Laut,62,9.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0153,2026-10-23 06:00:00,Makassar,-5.145,119.419,26.0,72,Berawan,3.1,Barat Daya,45,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0154,2026-10-23 06:00:00,Ujung Pandang,-5.137,119.407,26.7,81,Cerah Berawan,10.1,Timur Laut,55,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0155,2026-10-23 06:00:00,Wajo,-5.132,119.414,27.8,81,Berawan,13.5,Tenggara,37,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0156,2026-10-23 06:00:00,Bontoala,-5.13,119.433,26.8,84,Cerah Berawan,13.7,Selatan,40,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0157,2026-10-23 06:00:00,Tallo,-5.111,119.435,26.7,73,Hujan Ringan,15.3,Barat Daya,21,6.0,0.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0158,2026-10-23 06:00:00,Panakkukang,-5.155,119.448,27.7,80,Berawan,11.0,Barat,52,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0159,2026-10-23 06:00:00,Manggala,-5.18,119.493,26.6,82,Berawan,15.9,Selatan,16,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0160,2026-10-23 06:00:00,Biringkanaya,-5.09,119.52,26.6,80,Cerah Berawan,12.5,Barat Daya,28,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0161,2026-10-23 06:00:00,Tamalanrea,-5.113,119.49,27.8,77,Berawan,11.2,Utara,64,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0162,2026-10-23 06:00:00,Rappocini,-5.176,119.431,27.3,82,Berawan,2.5,Selatan,44,9.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0163,2026-10-23 06:00:00,Tamalate,-5.205,119.405,28.0,77,Cerah Berawan,4.3,Utara,51,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0164,2026-10-23 06:00:00,Ujung Tanah,-5.113,119.414,26.0,79,Cerah Berawan,9.3,Barat Daya,20,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0165,2026-10-23 06:00:00,Kepulauan Sangkarrang,-5.025,119.32,27.3,80,Cerah,2.8,Utara,20,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0166,2026-10-23 09:00:00,Mariso,-5.157,119.409,29.7,69,Berawan,9.8,Tenggara,66,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0167,2026-10-23 09:00:00,Mamajang,-5.16,119.426,29.9,66,Cerah Berawan,6.5,Selatan,62,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0168,2026-10-23 09:00:00,Makassar,-5.145,119.419,28.2,71,Berawan,2.1,Timur,48,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0169,2026-10-23 09:00:00,Ujung Pandang,-5.137,119.407,29.9,69,Cerah,10.0,Barat,55,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0170,2026-10-23 09:00:00,Wajo,-5.132,119.414,29.3,68,Berawan,12.7,Utara,55,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0171,2026-10-23 09:00:00,Bontoala,-5.13,119.433,29.1,72,Cerah,7.0,Barat,54,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0172,2026-10-23 09:00:00,Tallo,-5.111,119.435,28.8,71,Hujan Ringan,17.2,Barat Daya,68,8.8,0.7,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0173,2026-10-23 09:00:00,Panakkukang,-5.155,119.448,28.3,78,Cerah Berawan,11.4,Selatan,10,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0174,2026-10-23 09:00:00,Manggala,-5.18,119.493,29.9,68,Berawan,3.2,Tenggara,91,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0175,2026-10-23 09:00:00,Biringkanaya,-5.09,119.52,30.2,70,Berawan,15.1,Timur,28,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0176,2026-10-23 09:00:00,Tamalanrea,-5.113,119.49,28.7,67,Cerah,14.1,Barat Laut,9,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0177,2026-10-23 09:00:00,Rappocini,-5.176,119.431,29.2,73,Berawan,12.9,Barat Daya,82,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0178,2026-10-23 09:00:00,Tamalate,-5.205,119.405,30.1,74,Cerah,3.1,Selatan,56,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0179,2026-10-23 09:00:00,Ujung Tanah,-5.113,119.414,29.5,70,Cerah,9.4,Selatan,4,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0180,2026-10-23 09:00:00,Kepulauan Sangkarrang,-5.025,119.32,27.8,78,Hujan Ringan,10.1,Utara,69,7.1,2.2,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0181,2026-10-23 12:00:00,Mariso,-5.157,119.409,30.1,74,Berawan,7.1,Utara,70,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0182,2026-10-23 12:00:00,Mamajang,-5.16,119.426,30.1,74,Hujan Ringan,3.3,Tenggara,92,4.2,3.4,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0183,2026-10-23 12:00:00,Makassar,-5.145,119.419,30.7,77,Berawan,11.8,Selatan,56,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0184,2026-10-23 12:00:00,Ujung Pandang,-5.137,119.407,29.9,74,Berawan,2.8,Timur Laut,90,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0185,2026-10-23 12:00:00,Wajo,-5.132,119.414,29.8,70,Cerah Berawan,6.0,Timur,19,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0186,2026-10-23 12:00:00,Bontoala,-5.13,119.433,31.2,66,Berawan,12.6,Timur Laut,26,8.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0187,2026-10-23 12:00:00,Tallo,-5.111,119.435,29.7,67,Berawan,15.0,Timur Laut,95,9.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0188,2026-10-23 12:00:00,Panakkukang,-5.155,119.448,30.6,68,Cerah Berawan,7.8,Barat Daya,23,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0189,2026-10-23 12:00:00,Manggala,-5.18,119.493,31.3,69,Cerah Berawan,4.2,Timur Laut,9,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0190,2026-10-23 12:00:00,Biringkanaya,-5.09,119.52,30.2,70,Berawan,10.4,Timur,94,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0191,2026-10-23 12:00:00,Tamalanrea,-5.113,119.49,30.4,64,Cerah Berawan,13.1,Utara,21,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0192,2026-10-23 12:00:00,Rappocini,-5.176,119.431,30.0,72,Cerah Berawan,9.1,Barat Laut,36,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0193,2026-10-23 12:00:00,Tamalate,-5.205,119.405,29.6,65,Hujan Ringan,16.5,Barat Laut,34,5.6,2.8,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0194,2026-10-23 12:00:00,Ujung Tanah,-5.113,119.414,30.1,66,Cerah Berawan,10.4,Timur,20,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0195,2026-10-23 12:00:00,Kepulauan Sangkarrang,-5.025,119.32,30.7,62,Cerah Berawan,7.9,Timur Laut,13,9.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0196,2026-10-23 15:00:00,Mariso,-5.157,119.409,28.7,76,Cerah Berawan,16.5,Timur Laut,18,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0197,2026-10-23 15:00:00,Mamajang,-5.16,119.426,30.3,68,Cerah Berawan,7.6,Barat,3,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0198,2026-10-23 15:00:00,Makassar,-5.145,119.419,29.3,68,Hujan Ringan,2.5,Barat Daya,22,8.9,1.4,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0199,2026-10-23 15:00:00,Ujung Pandang,-5.137,119.407,30.0,66,Cerah Berawan,15.3,Barat Laut,17,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0200,2026-10-23 15:00:00,Wajo,-5.132,119.414,29.1,64,Cerah,6.1,Barat,19,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0201,2026-10-23 15:00:00,Bontoala,-5.13,119.433,28.3,69,Cerah Berawan,2.8,Barat Laut,53,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0202,2026-10-23 15:00:00,Tallo,-5.111,119.435,28.2,78,Cerah Berawan,10.6,Timur,65,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0203,2026-10-23 15:00:00,Panakkukang,-5.155,119.448,28.8,64,Cerah Berawan,11.1,Timur Laut,23,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0204,2026-10-23 15:00:00,Manggala,-5.18,119.493,29.3,70,Hujan Ringan,14.6,Barat,74,6.9,1.9,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0205,2026-10-23 15:00:00,Biringkanaya,-5.09,119.52,30.2,65,Cerah Berawan,8.0,Timur Laut,2,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0206,2026-10-23 15:00:00,Tamalanrea,-5.113,119.49,28.9,76,Berawan,14.3,Barat Daya,52,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0207,2026-10-23 15:00:00,Rappocini,-5.176,119.431,29.4,77,Cerah Berawan,14.5,Barat Laut,59,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0208,2026-10-23 15:00:00,Tamalate,-5.205,119.405,29.6,77,Cerah,14.4,Tenggara,58,7.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0209,2026-10-23 15:00:00,Ujung Tanah,-5.113,119.414,28.2,67,Cerah,16.9,Barat Laut,65,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0210,2026-10-23 15:00:00,Kepulauan Sangkarrang,-5.025,119.32,28.3,76,Cerah Berawan,7.7,Barat Daya,6,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0211,2026-10-23 18:00:00,Mariso,-5.157,119.409,26.5,84,Cerah Berawan,8.4,Barat,56,9.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0212,2026-10-23 18:00:00,Mamajang,-5.16,119.426,26.6,74,Berawan,7.9,Timur Laut,76,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0213,2026-10-23 18:00:00,Makassar,-5.145,119.419,27.5,72,Berawan,15.2,Timur Laut,79,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0214,2026-10-23 18:00:00,Ujung Pandang,-5.137,119.407,26.0,82,Cerah Berawan,11.6,Barat Laut,54,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0215,2026-10-23 18:00:00,Wajo,-5.132,119.414,26.6,72,Hujan Ringan,18.0,Utara,45,7.5,1.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0216,2026-10-23 18:00:00,Bontoala,-5.13,119.433,26.0,81,Cerah Berawan,14.8,Timur,20,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0217,2026-10-23 18:00:00,Tallo,-5.111,119.435,27.8,82,Cerah Berawan,4.0,Barat Daya,30,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0218,2026-10-23 18:00:00,Panakkukang,-5.155,119.448,26.7,86,Cerah,4.5,Barat Daya,57,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0219,2026-10-23 18:00:00,Manggala,-5.18,119.493,26.9,72,Cerah,7.9,Tenggara,40,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0220,2026-10-23 18:00:00,Biringkanaya,-5.09,119.52,28.1,71,Cerah Berawan,10.3,Selatan,15,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0221,2026-10-23 18:00:00,Tamalanrea,-5.113,119.49,27.5,74,Berawan,13.1,Timur,72,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0222,2026-10-23 18:00:00,Rappocini,-5.176,119.431,27.8,78,Hujan Ringan,3.4,Barat Daya,97,9.8,1.6,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0223,2026-10-23 18:00:00,Tamalate,-5.205,119.405,27.4,82,Berawan,6.6,Timur,48,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0224,2026-10-23 18:00:00,Ujung Tanah,-5.113,119.414,27.7,79,Cerah,5.2,Barat Laut,17,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0225,2026-10-23 18:00:00,Kepulauan Sangkarrang,-5.025,119.32,25.5,80,Cerah Berawan,14.9,Timur Laut,16,8.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0226,2026-10-23 21:00:00,Mariso,-5.157,119.409,23.7,84,Berawan,9.7,Timur Laut,62,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0227,2026-10-23 21:00:00,Mamajang,-5.16,119.426,23.8,83,Cerah,9.5,Timur,44,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0228,2026-10-23 21:00:00,Makassar,-5.145,119.419,25.4,80,Berawan,15.9,Selatan,25,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0229,2026-10-23 21:00:00,Ujung Pandang,-5.137,119.407,23.9,83,Berawan,7.5,Timur Laut,76,9.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0230,2026-10-23 21:00:00,Wajo,-5.132,119.414,24.1,88,Berawan,4.0,Timur Laut,48,8.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0231,2026-10-23 21:00:00,Bontoala,-5.13,119.433,24.7,80,Hujan Ringan,12.5,Utara,87,5.4,0.6,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0232,2026-10-23 21:00:00,Tallo,-5.111,119.435,25.5,78,Cerah,12.3,Barat,33,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0233,2026-10-23 21:00:00,Panakkukang,-5.155,119.448,25.0,78,Hujan Ringan,12.3,Barat,48,6.4,2.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0234,2026-10-23 21:00:00,Manggala,-5.18,119.493,24.3,79,Cerah,9.0,Barat Daya,61,8.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0235,2026-10-23 21:00:00,Biringkanaya,-5.09,119.52,25.0,83,Berawan,13.7,Timur,54,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0236,2026-10-23 21:00:00,Tamalanrea,-5.113,119.49,25.4,86,Cerah,5.9,Tenggara,15,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0237,2026-10-23 21:00:00,Rappocini,-5.176,119.431,23.9,79,Hujan Ringan,8.7,Barat Daya,30,8.7,3.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0238,2026-10-23 21:00:00,Tamalate,-5.205,119.405,24.0,80,Hujan Ringan,16.1,Barat,73,3.2,1.7,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0239,2026-10-23 21:00:00,Ujung Tanah,-5.113,119.414,24.8,93,Cerah Berawan,7.6,Barat Laut,6,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0240,2026-10-23 21:00:00,Kepulauan Sangkarrang,-5.025,119.32,23.8,78,Cerah,4.1,Barat,33,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0241,2026-10-24 00:00:00,Mariso,-5.157,119.409,23.5,87,Berawan,5.1,Barat,80,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0242,2026-10-24 00:00:00,Mamajang,-5.16,119.426,23.8,93,Cerah Berawan,17.8,Timur Laut,15,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0243,2026-10-24 00:00:00,Makassar,-5.145,119.419,23.5,93,Cerah Berawan,17.0,Barat,18,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0244,2026-10-24 00:00:00,Ujung Pandang,-5.137,119.407,23.8,81,Cerah,7.3,Timur,60,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0245,2026-10-24 00:00:00,Wajo,-5.132,119.414,24.1,89,Cerah Berawan,11.8,Selatan,20,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0246,2026-10-24 00:00:00,Bontoala,-5.13,119.433,24.0,89,Berawan,9.8,Utara,82,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0247,2026-10-24 00:00:00,Tallo,-5.111,119.435,23.5,91,Hujan Ringan,14.7,Barat Laut,98,7.4,2.1,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0248,2026-10-24 00:00:00,Panakkukang,-5.155,119.448,23.2,91,Hujan Ringan,5.6,Timur,16,7.1,2.1,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0249,2026-10-24 00:00:00,Manggala,-5.18,119.493,23.9,92,Berawan,8.1,Timur Laut,97,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0250,2026-10-24 00:00:00,Biringkanaya,-5.09,119.52,23.1,88,Cerah Berawan,8.6,Barat Laut,26,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0251,2026-10-24 00:00:00,Tamalanrea,-5.113,119.49,24.7,92,Cerah,4.2,Barat Laut,26,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0252,2026-10-24 00:00:00,Rappocini,-5.176,119.431,23.9,86,Cerah Berawan,16.6,Selatan,43,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0253,2026-10-24 00:00:00,Tamalate,-5.205,119.405,24.1,84,Cerah Berawan,10.9,Selatan,28,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0254,2026-10-24 00:00:00,Ujung Tanah,-5.113,119.414,24.5,92,Berawan,9.8,Selatan,71,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0255,2026-10-24 00:00:00,Kepulauan Sangkarrang,-5.025,119.32,22.9,90,Berawan,16.3,Timur,60,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0256,2026-10-24 03:00:00,Mariso,-5.157,119.409,24.2,82,Berawan,7.5,Barat Laut,66,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0257,2026-10-24 03:00:00,Mamajang,-5.16,119.426,24.1,91,Cerah Berawan,11.0,Tenggara,34,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0258,2026-10-24 03:00:00,Makassar,-5.145,119.419,24.1,89,Berawan,12.2,Barat Daya,16,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0259,2026-10-24 03:00:00,Ujung Pandang,-5.137,119.407,25.3,79,Berawan,2.1,Timur,80,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0260,2026-10-24 03:00:00,Wajo,-5.132,119.414,24.5,93,Hujan Ringan,5.2,Utara,46,5.2,1.7,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0261,2026-10-24 03:00:00,Bontoala,-5.13,119.433,25.7,79,Berawan,10.6,Timur,14,9.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0262,2026-10-24 03:00:00,Tallo,-5.111,119.435,24.5,91,Hujan Ringan,15.4,Selatan,73,4.3,0.2,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0263,2026-10-24 03:00:00,Panakkukang,-5.155,119.448,25.6,78,Berawan,3.7,Barat Laut,52,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0264,2026-10-24 03:00:00,Manggala,-5.18,119.493,25.7,80,Berawan,6.4,Barat Laut,24,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0265,2026-10-24 03:00:00,Biringkanaya,-5.09,119.52,25.1,89,Cerah,7.4,Tenggara,37,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0266,2026-10-24 03:00:00,Tamalanrea,-5.113,119.49,24.0,91,Hujan Ringan,10.2,Timur Laut,21,5.8,2.9,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0267,2026-10-24 03:00:00,Rappocini,-5.176,119.431,24.0,80,Cerah Berawan,6.0,Barat Laut,33,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0268,2026-10-24 03:00:00,Tamalate,-5.205,119.405,25.3,93,Cerah Berawan,13.6,Barat Daya,1,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0269,2026-10-24 03:00:00,Ujung Tanah,-5.113,119.414,25.2,79,Cerah,6.9,Selatan,51,9.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0270,2026-10-24 03:00:00,Kepulauan Sangkarrang,-5.025,119.32,24.8,88,Hujan Ringan,5.5,Barat Laut,27,6.3,1.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0271,2026-10-24 06:00:00,Mariso,-5.157,119.409,27.6,81,Cerah Berawan,10.8,Tenggara,60,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0272,2026-10-24 06:00:00,Mamajang,-5.16,119.426,27.6,82,Berawan,14.6,Barat Daya,77,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0273,2026-10-24 06:00:00,Makassar,-5.145,119.419,26.0,80,Cerah,10.8,Timur,64,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0274,2026-10-24 06:00:00,Ujung Pandang,-5.137,119.407,26.2,85,Cerah Berawan,12.9,Barat Laut,62,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0275,2026-10-24 06:00:00,Wajo,-5.132,119.414,27.7,78,Berawan,9.3,Selatan,17,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0276,2026-10-24 06:00:00,Bontoala,-5.13,119.433,27.5,77,Berawan,13.9,Barat,84,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0277,2026-10-24 06:00:00,Tallo,-5.111,119.435,26.6,72,Hujan Ringan,3.1,Barat,70,3.2,3.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0278,2026-10-24 06:00:00,Panakkukang,-5.155,119.448,26.2,73,Berawan,13.7,Barat,63,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0279,2026-10-24 06:00:00,Manggala,-5.18,119.493,26.9,86,Cerah Berawan,3.3,Barat Daya,17,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0280,2026-10-24 06:00:00,Biringkanaya,-5.09,119.52,26.1,87,Cerah Berawan,4.0,Utara,28,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0281,2026-10-24 06:00:00,Tamalanrea,-5.113,119.49,28.1,78,Berawan,8.8,Tenggara,58,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0282,2026-10-24 06:00:00,Rappocini,-5.176,119.431,26.9,73,Cerah Berawan,16.0,Barat,14,7.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0283,2026-10-24 06:00:00,Tamalate,-5.205,119.405,27.3,86,Hujan Ringan,3.1,Utara,86,3.2,0.9,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0284,2026-10-24 06:00:00,Ujung Tanah,-5.113,119.414,26.4,72,Cerah Berawan,10.6,Selatan,7,7.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0285,2026-10-24 06:00:00,Kepulauan Sangkarrang,-5.025,119.32,26.0,86,Berawan,11.2,Tenggara,96,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0286,2026-10-24 09:00:00,Mariso,-5.157,119.409,28.8,67,Berawan,5.5,Timur,48,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0287,2026-10-24 09:00:00,Mamajang,-5.16,119.426,29.6,71,Cerah Berawan,17.6,Barat Daya,48,9.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0288,2026-10-24 09:00:00,Makassar,-5.145,119.419,29.7,71,Cerah Berawan,4.9,Tenggara,60,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0289,2026-10-24 09:00:00,Ujung Pandang,-5.137,119.407,28.8,76,Berawan,16.6,Barat,81,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0290,2026-10-24 09:00:00,Wajo,-5.132,119.414,29.4,66,Cerah Berawan,5.3,Barat Daya,10,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0291,2026-10-24 09:00:00,Bontoala,-5.13,119.433,28.3,76,Cerah Berawan,6.3,Tenggara,5,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0292,2026-10-24 09:00:00,Tallo,-5.111,119.435,30.0,74,Berawan,5.5,Barat Daya,36,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0293,2026-10-24 09:00:00,Panakkukang,-5.155,119.448,28.8,79,Cerah Berawan,5.0,Barat Laut,15,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0294,2026-10-24 09:00:00,Manggala,-5.18,119.493,30.3,75,Berawan,8.3,Selatan,40,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0295,2026-10-24 09:00:00,Biringkanaya,-5.09,119.52,29.0,73,Cerah Berawan,6.2,Barat Laut,65,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0296,2026-10-24 09:00:00,Tamalanrea,-5.113,119.49,28.3,80,Cerah Berawan,15.4,Barat,26,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0297,2026-10-24 09:00:00,Rappocini,-5.176,119.431,28.2,78,Berawan,2.3,Barat,80,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0298,2026-10-24 09:00:00,Tamalate,-5.205,119.405,28.8,67,Cerah Berawan,11.1,Barat Daya,31,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0299,2026-10-24 09:00:00,Ujung Tanah,-5.113,119.414,28.7,77,Hujan Ringan,9.8,Barat Daya,31,8.1,2.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0300,2026-10-24 09:00:00,Kepulauan Sangkarrang,-5.025,119.32,28.1,76,Cerah Berawan,16.7,Timur Laut,7,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0301,2026-10-24 12:00:00,Mariso,-5.157,119.409,31.3,72,Berawan,8.6,Timur,90,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0302,2026-10-24 12:00:00,Mamajang,-5.16,119.426,29.0,69,Cerah Berawan,11.9,Utara,61,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0303,2026-10-24 12:00:00,Makassar,-5.145,119.419,29.0,70,Cerah,10.5,Selatan,35,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0304,2026-10-24 12:00:00,Ujung Pandang,-5.137,119.407,29.0,74,Berawan,14.9,Timur Laut,32,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0305,2026-10-24 12:00:00,Wajo,-5.132,119.414,30.3,65,Berawan,6.0,Barat,55,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0306,2026-10-24 12:00:00,Bontoala,-5.13,119.433,29.2,77,Cerah Berawan,5.9,Timur Laut,28,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0307,2026-10-24 12:00:00,Tallo,-5.111,119.435,30.6,75,Berawan,3.5,Barat Laut,58,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0308,2026-10-24 12:00:00,Panakkukang,-5.155,119.448,29.1,62,Cerah Berawan,10.0,Barat Daya,55,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0309,2026-10-24 12:00:00,Manggala,-5.18,119.493,30.4,75,Cerah,10.5,Barat Laut,5,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0310,2026-10-24 12:00:00,Biringkanaya,-5.09,119.52,29.7,76,Berawan,6.5,Utara,79,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0311,2026-10-24 12:00:00,Tamalanrea,-5.113,119.49,29.4,75,Cerah,5.3,Barat,18,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0312,2026-10-24 12:00:00,Rappocini,-5.176,119.431,31.2,66,Berawan,11.1,Barat Daya,59,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0313,2026-10-24 12:00:00,Tamalate,-5.205,119.405,29.9,73,Berawan,13.0,Barat Daya,20,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0314,2026-10-24 12:00:00,Ujung Tanah,-5.113,119.414,29.1,68,Hujan Ringan,14.3,Barat Daya,86,5.8,1.3,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0315,2026-10-24 12:00:00,Kepulauan Sangkarrang,-5.025,119.32,28.7,66,Hujan Ringan,7.7,Barat,58,6.0,1.8,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0316,2026-10-24 15:00:00,Mariso,-5.157,119.409,28.3,74,Berawan,13.4,Barat,20,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0317,2026-10-24 15:00:00,Mamajang,-5.16,119.426,29.8,74,Berawan,7.1,Selatan,23,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0318,2026-10-24 15:00:00,Makassar,-5.145,119.419,29.1,76,Cerah,3.4,Barat,55,8.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0319,2026-10-24 15:00:00,Ujung Pandang,-5.137,119.407,28.3,66,Berawan,11.6,Utara,51,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0320,2026-10-24 15:00:00,Wajo,-5.132,119.414,28.8,70,Cerah,16.4,Timur,31,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0321,2026-10-24 15:00:00,Bontoala,-5.13,119.433,29.7,67,Cerah Berawan,6.3,Barat,18,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0322,2026-10-24 15:00:00,Tallo,-5.111,119.435,28.7,69,Berawan,7.8,Barat Laut,41,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0323,2026-10-24 15:00:00,Panakkukang,-5.155,119.448,29.5,67,Cerah,6.9,Barat,50,8.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0324,2026-10-24 15:00:00,Manggala,-5.18,119.493,30.0,69,Cerah Berawan,15.0,Tenggara,17,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0325,2026-10-24 15:00:00,Biringkanaya,-5.09,119.52,29.2,67,Cerah Berawan,7.1,Tenggara,62,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0326,2026-10-24 15:00:00,Tamalanrea,-5.113,119.49,28.8,69,Berawan,7.8,Timur,82,7.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0327,2026-10-24 15:00:00,Rappocini,-5.176,119.431,29.7,73,Hujan Ringan,13.3,Timur Laut,66,8.6,1.7,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0328,2026-10-24 15:00:00,Tamalate,-5.205,119.405,30.0,77,Cerah Berawan,10.0,Timur,38,7.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0329,2026-10-24 15:00:00,Ujung Tanah,-5.113,119.414,29.8,77,Cerah,17.9,Barat,61,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0330,2026-10-24 15:00:00,Kepulauan Sangkarrang,-5.025,119.32,29.0,77,Cerah Berawan,16.3,Tenggara,10,7.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0331,2026-10-24 18:00:00,Mariso,-5.157,119.409,27.4,77,Berawan,2.7,Barat,92,9.0,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0332,2026-10-24 18:00:00,Mamajang,-5.16,119.426,28.1,76,Berawan,3.7,Tenggara,22,7.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0333,2026-10-24 18:00:00,Makassar,-5.145,119.419,26.9,77,Berawan,11.4,Utara,74,7.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0334,2026-10-24 18:00:00,Ujung Pandang,-5.137,119.407,27.0,76,Hujan Ringan,15.3,Barat Daya,28,5.4,0.4,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0335,2026-10-24 18:00:00,Wajo,-5.132,119.414,26.9,74,Cerah Berawan,9.6,Barat Laut,56,9.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0336,2026-10-24 18:00:00,Bontoala,-5.13,119.433,26.6,76,Berawan,3.8,Timur,53,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0337,2026-10-24 18:00:00,Tallo,-5.111,119.435,28.0,83,Berawan,10.8,Barat Laut,52,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0338,2026-10-24 18:00:00,Panakkukang,-5.155,119.448,26.4,77,Cerah Berawan,12.2,Tenggara,55,8.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0339,2026-10-24 18:00:00,Manggala,-5.18,119.493,26.9,78,Cerah,5.4,Timur Laut,35,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0340,2026-10-24 18:00:00,Biringkanaya,-5.09,119.52,27.2,84,Berawan,7.9,Selatan,35,8.4,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0341,2026-10-24 18:00:00,Tamalanrea,-5.113,119.49,27.4,79,Hujan Ringan,8.2,Barat Daya,60,7.1,1.2,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0342,2026-10-24 18:00:00,Rappocini,-5.176,119.431,26.6,78,Cerah Berawan,12.8,Timur Laut,38,9.8,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0343,2026-10-24 18:00:00,Tamalate,-5.205,119.405,27.4,76,Cerah Berawan,3.9,Barat,47,9.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0344,2026-10-24 18:00:00,Ujung Tanah,-5.113,119.414,26.8,73,Cerah Berawan,5.0,Barat Laut,22,8.7,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0345,2026-10-24 18:00:00,Kepulauan Sangkarrang,-5.025,119.32,26.1,74,Hujan Ringan,15.8,Tenggara,11,6.4,2.2,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0346,2026-10-24 21:00:00,Mariso,-5.157,119.409,25.5,93,Berawan,9.9,Barat Laut,97,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0347,2026-10-24 21:00:00,Mamajang,-5.16,119.426,24.7,79,Cerah,14.2,Tenggara,37,7.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0348,2026-10-24 21:00:00,Makassar,-5.145,119.419,24.8,80,Cerah Berawan,13.9,Timur Laut,63,8.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0349,2026-10-24 21:00:00,Ujung Pandang,-5.137,119.407,24.9,82,Berawan,17.9,Utara,79,9.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0350,2026-10-24 21:00:00,Wajo,-5.132,119.414,25.4,85,Cerah Berawan,8.8,Utara,31,7.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0351,2026-10-24 21:00:00,Bontoala,-5.13,119.433,24.6,83,Berawan,9.0,Tenggara,25,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0352,2026-10-24 21:00:00,Tallo,-5.111,119.435,24.0,90,Berawan,15.8,Timur,88,8.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0353,2026-10-24 21:00:00,Panakkukang,-5.155,119.448,25.0,90,Berawan,14.9,Selatan,82,8.1,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0354,2026-10-24 21:00:00,Manggala,-5.18,119.493,25.0,80,Hujan Ringan,11.2,Timur Laut,75,9.9,1.1,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0355,2026-10-24 21:00:00,Biringkanaya,-5.09,119.52,23.9,90,Cerah Berawan,2.9,Timur,35,9.6,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0356,2026-10-24 21:00:00,Tamalanrea,-5.113,119.49,25.2,80,Cerah,7.2,Barat,31,9.3,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0357,2026-10-24 21:00:00,Rappocini,-5.176,119.431,24.7,87,Cerah Berawan,8.6,Timur Laut,57,7.2,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0358,2026-10-24 21:00:00,Tamalate,-5.205,119.405,24.5,90,Berawan,16.0,Barat Daya,68,9.9,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0359,2026-10-24 21:00:00,Ujung Tanah,-5.113,119.414,24.9,92,Hujan Ringan,17.6,Barat Daya,91,7.6,0.4,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
+SIM-0360,2026-10-24 21:00:00,Kepulauan Sangkarrang,-5.025,119.32,25.2,91,Cerah Berawan,17.5,Barat Daya,27,8.5,0.0,SIMULASI - bukan prakiraan resmi,BMKG sebagai sumber rujukan; data aktual belum diimpor
